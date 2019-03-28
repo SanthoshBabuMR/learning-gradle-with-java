@@ -1,5 +1,6 @@
 ## Ref
 - https://spring.io/guides/gs/gradle/
+- https://github.com/spring-guides/gs-gradle
 
 ## gradle commands
 - gradle tasks
